@@ -29,7 +29,9 @@ pip install -r requirements.txt
 ## Usage
 
 
-Unzip the data.zip file into the data folder and run the following command to train, fit and output submission set:
+Provide data files and run the following command to train, fit and output submission set:
+
+**Note: Raw data files from the competition are unavailable due to privacy reasons**
 
 ```
 python sigma_script.py data/train.csv data/test.csv
